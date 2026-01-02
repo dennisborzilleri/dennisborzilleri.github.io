@@ -2,7 +2,7 @@
 title: Dennis Borzilleri | Fondatore VYRO
 description: Dennis Borzilleri, Sviluppatore Software e Fondatore di VYRO, applicazioni mobile multipiattaforma per Android e iOS.
 ---
-
+<meta name="google-site-verification" content=<meta name="google-site-verification" content="0Ex9TtXgPvd6mBN2sQpekEbHT-UbnG4oElYi23BJUVM" />
 # Dennis Borzilleri
 ![IMG-20251113-WA0000](https://github.com/user-attachments/assets/2140daf6-e747-4899-b735-7d45b6252e06)
 
